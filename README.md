@@ -12,4 +12,4 @@ Exit and reopen terminal
 
 Vim settings will be available.
 
-
+ 
