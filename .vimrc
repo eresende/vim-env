@@ -3,6 +3,7 @@ set nocompatible              " required
 filetype on                   " required
 set backspace=start,eol,indent
 set nu
+set tabstop=4
 
 " set the runtime path to include Vundle and initialize
 set rtp+=~/.vim/bundle/Vundle.vim
