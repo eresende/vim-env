@@ -3,7 +3,7 @@ Environment for vim tool
 
 ## How-to use this
 
-git clone --recursive https://github.com/eresende/vim-env.git ~/.vin-env
+git clone --recursive https://github.com/eresende/vim-env.git ~/.vim-env
 
 ln -s ~/.vim-env/.vim
 ln -s ~/.vim-env/.vimrc
